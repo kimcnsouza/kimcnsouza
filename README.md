@@ -1,22 +1,31 @@
-## Oii, sou a Kimberly!!!
+# Olá, eu sou a Kimberly 👋
 
-<p align="left"> 
-  Meu nome é Kimberly, tenho 21 anos e sou desenvolvedora front end
-  Você pode me seguir nas redes abaixo para me conhecer um pouco melhor!!
-</p>
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou focando meus estudos em desenvolvimento Java.
+
+Tenho aprofundado meus conhecimentos em lógica de programação, orientação a objetos e resolução de problemas, construindo projetos práticos para fortalecer minha base como desenvolvedora.
+
+## 🚀 Tecnologias em estudo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kimberly-neves-117031219" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/kimsouza_/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-##  Minhas Skills
+## 📚 Atualmente
 
-<p align="left"> 
-  Atualmente essas são as linguagens que estudo/trabalho!
+- Estudando Java e fundamentos de programação
+- Desenvolvendo projetos práticos para portfólio
+- Evoluindo em lógica de programação
+- Buscando minha primeira oportunidade na área de tecnologia
+
+## 📫 Contato
+
+<p align="left">
+  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/kimberly-neves-117031219)">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
-<img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
