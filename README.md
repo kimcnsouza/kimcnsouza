@@ -25,7 +25,7 @@ Tenho aprofundado meus conhecimentos em lógica de programação, orientação a
 ## 📫 Contato
 
 <p align="left">
-  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/kimberly-neves-117031219)">
+  <a href="https://www.linkedin.com/in/kimberly-neves-117031219">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
